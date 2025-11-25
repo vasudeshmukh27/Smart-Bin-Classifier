@@ -32,22 +32,7 @@ Smart Bin Classifier is an end-to-end AI system that automatically predicts the 
 
 ---
 
-## 📸 Screenshots
 
-<div align="center">
-
-### Main Interface
-![Main Interface](https://via.placeholder.com/800x400?text=Main+Interface+Screenshot)
-
-### Prediction Results
-![Results](https://via.placeholder.com/800x400?text=Prediction+Results+Screenshot)
-
-### User Guide
-![Guide](https://via.placeholder.com/800x400?text=User+Guide+Screenshot)
-
-</div>
-
----
 
 ## 🎯 Quick Start
 
@@ -681,10 +666,10 @@ in the Software without restriction...
 🐛 **Report Bugs**: [GitHub Issues](https://github.com/yourusername/smart-bin-classifier/issues)
 
 ### Author
-👨‍💻 **Student**: se22uecm084  
+👨‍💻 **Student**: Vasu Deshmukh  
 📚 **Course**: Applied AI for Industry  
-🎓 **Institution**: [Your University]  
-📧 **Email**: [your.email@example.com]
+🎓 **Institution**: Mahindra University  
+📧 **Email**: vasudeshmukh111@gmail.com
 
 ---
 
