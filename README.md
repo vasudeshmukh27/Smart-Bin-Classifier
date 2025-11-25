@@ -666,10 +666,10 @@ in the Software without restriction...
 🐛 **Report Bugs**: [GitHub Issues](https://github.com/yourusername/smart-bin-classifier/issues)
 
 ### Author
-👨‍💻 **Student**: se22uecm084  
+👨‍💻 **Student**: Vasu Deshmukh  
 📚 **Course**: Applied AI for Industry  
-🎓 **Institution**: [Your University]  
-📧 **Email**: [your.email@example.com]
+🎓 **Institution**: Mahindra University  
+📧 **Email**: vasudeshmukh111@gmail.com
 
 ---
 
