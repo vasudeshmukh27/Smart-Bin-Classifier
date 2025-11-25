@@ -727,14 +727,6 @@ If you find this project useful, please consider giving it a star ⭐
 - ✅ Comprehensive documentation
 - ✅ 62.3% accuracy (±2 items)
 
-### Planned Features (v2.0.0)
-- [ ] Support for video input
-- [ ] Batch processing mode
-- [ ] API endpoint for integration
-- [ ] Mobile app
-- [ ] Multi-language support
-- [ ] Advanced visualization options
-
 ---
 
 <div align="center">
