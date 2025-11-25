@@ -1,0 +1,60 @@
+
+============================================================
+AMAZON BIN IMAGE DATASET - EDA SUMMARY REPORT
+============================================================
+
+Dataset Overview:
+-----------------
+Total bins analyzed: 999
+Total unique ASINs: 1756
+Date analyzed: 2025-11-25 01:38:22
+
+Quantity Statistics:
+--------------------
+Mean items per bin: 5.33
+Median items per bin: 4
+Min items per bin: 0
+Max items per bin: 48
+Std deviation: 4.52
+
+Product Diversity:
+------------------
+Mean unique products per bin: 2.70
+Median unique products per bin: 3
+Min unique products: 0
+Max unique products: 11
+
+Image Properties:
+-----------------
+Mean width: 476 px
+Mean height: 414 px
+Mean file size: 54.76 KB
+
+Physical Dimensions (items):
+-----------------------------
+Mean height: 2.21 inches
+Mean width: 5.88 inches
+Mean length: 8.83 inches
+Mean weight: 1.08 pounds
+
+Data Quality:
+-------------
+Items with weight info: 2642 / 2702 (97.8%)
+Items with dimensions: 2698 / 2702 (99.9%)
+
+Key Insights:
+-------------
+1. Bins contain 2.7 unique products on average
+2. Total item count per bin ranges from 0 to 48
+3. 1756 unique ASINs across the dataset
+4. Most common ASIN appears 6 times
+
+Visualizations Generated:
+--------------------------
+1. quantity_distributions.png
+2. top_asins.png
+3. physical_dimensions.png
+4. weight_distribution.png
+5. sample_images_grid.png
+
+============================================================

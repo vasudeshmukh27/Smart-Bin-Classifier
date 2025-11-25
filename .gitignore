@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data (keep raw data out)
+data/raw/
+data/processed/
+
+# IDE
+.vscode/
+.DS_Store
