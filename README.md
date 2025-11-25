@@ -32,21 +32,6 @@ Smart Bin Classifier is an end-to-end AI system that automatically predicts the 
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### Main Interface
-![Main Interface](https://via.placeholder.com/800x400?text=Main+Interface+Screenshot)
-
-### Prediction Results
-![Results](https://via.placeholder.com/800x400?text=Prediction+Results+Screenshot)
-
-### User Guide
-![Guide](https://via.placeholder.com/800x400?text=User+Guide+Screenshot)
-
-</div>
-
 ---
 
 ## 🎯 Quick Start
